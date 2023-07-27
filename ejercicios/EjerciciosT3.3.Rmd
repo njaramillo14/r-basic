@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # PRODUCTO NOTABLE
 
-La fórmula del producto notable es
+La fórmula del producto notable es:
 
 $$(a+b)^2 = a^2+2ab+b^2$$
 
